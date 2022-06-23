@@ -19,10 +19,18 @@ function calc(){
     }
 }
 
-var btn = document.getElementById("btn");
 
-function myBtn(){
-    btn.addEventListener("click", calc()); 
-}
 
-//button..
+
+
+
+
+
+
+
+
+
+
+
+
+
