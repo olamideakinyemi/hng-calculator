@@ -20,6 +20,7 @@ input{
     font-size: 25px;
     border-radius: 10px;
     padding: 20px;
+    outline: none;
 }
 
 select{
